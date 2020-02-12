@@ -1,4 +1,4 @@
-site-tile {
+site-title {
     color: #fb7e00;
 }
 body {
@@ -6,4 +6,7 @@ body {
 }
 img {
     float: right;
+}
+play-screen {
+    background-color: #2ffb01
 }
